@@ -32,7 +32,7 @@ var countdown = (deadline, elem, finalMessage) => {
 
 // FECHA AQUI
 countdown(
-  "Aug 5 2022 17:18:00 GMT-0500",
+  "Aug 5 2023 17:18:00 GMT-0500",
   "clock",
   "¡Ya Terminó!Puedes ver mas productos en promocion en la seccion de Ofertas"
 );
