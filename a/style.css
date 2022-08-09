@@ -76,12 +76,13 @@
 }
 
 .clock .container-number .dospuntos{
+
   position:absolute;
-  margin-right: -9.4rem;
+  margin-top: -10px ;
+  margin-right: -115px;
   font-size: 4rem;
   
 }
-
 .clock .container-number span{
   font-weight: 600;
   color: white;
